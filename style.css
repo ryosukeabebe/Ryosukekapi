@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  background-color: black;
+}
+
+header{
+  position: relative;
+  padding-left: 100px;
+}
+
+nav{
+  position:absolute;
+  top: 0; 
+  right: 100px;
+  }
+
+.lists{
+  display: flex;
+  color: red;
+  list-style-type: none;
+  text-align:  center;
+  }
+
+.lists{
+  color: red;
+  padding-right: 50px;
+  font-weight: bold;
+  font-size: 20px;
+  }
+
